@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\interfaces\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\infrastructurelayer\\migrations\\20261027100339_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\migrations\\20261027100339_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA07A83-E8C3-AEEC-9D2B-4B03A9B6EC4F}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\infrastructurelayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\infrastructurelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804221C6-A36A-EC30-9B10-5BA2E5053374}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\domainlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\applicationlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8C1324-F9AE-7A64-054A-AD97015D61F0}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|c:\\omaima lti\\ipsas\\3eme_annee\\.net\\productmanagment\\domainlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:46:58.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T09:47:48.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:48:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Services\\ProductService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:24:47.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261027100339_dbcreate.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Migrations\\20261027100339_dbcreate.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Migrations\\20261027100339_dbcreate.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Migrations\\20261027100339_dbcreate.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Migrations\\20261027100339_dbcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:03:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsAPI.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T10:00:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:44:14.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:45:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfrastructureLayer.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeToolTip": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T08:42:49.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationLayer.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeDocumentMoniker": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\ApplicationLayer.csproj",
+              "RelativeToolTip": "ApplicationLayer\\ApplicationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T08:17:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:18:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:19:26.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T08:31:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\InfrastructureLayer\\Class1.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:40:27.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:15:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:09:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\UpdateProductDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\UpdateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:15:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:14:25.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\ApplicationLayer\\Class1.cs",
+              "RelativeToolTip": "ApplicationLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:13:02.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Class1.cs",
+              "ToolTip": "C:\\Omaima LTI\\IPSAS\\3eme_annee\\.net\\ProductManagment\\DomainLayer\\Class1.cs",
+              "RelativeToolTip": "DomainLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:05:58.392Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

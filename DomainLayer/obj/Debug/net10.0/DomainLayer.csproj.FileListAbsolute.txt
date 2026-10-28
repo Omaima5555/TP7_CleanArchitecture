@@ -1,0 +1,15 @@
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\bin\Debug\net10.0\DomainLayer.deps.json
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\bin\Debug\net10.0\DomainLayer.runtimeconfig.json
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\bin\Debug\net10.0\DomainLayer.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\bin\Debug\net10.0\DomainLayer.pdb
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.AssemblyInfo.cs
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\refint\DomainLayer.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.pdb
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLayer.genruntimeconfig.cache
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\ref\DomainLayer.dll
+C:\Omaima LTI\IPSAS\3eme_annee\.net\ProductManagment\DomainLayer\obj\Debug\net10.0\DomainLa.5E103439.Up2Date
